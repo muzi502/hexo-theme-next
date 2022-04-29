@@ -74,7 +74,7 @@ pjax: true
 
 ### Configure CDN
 
-Third-party plugins are loaded from [jsDelivr](https://www.jsdelivr.com) CDN by default. We also provide other optional CDNs, including the famous [UNPKG](https://unpkg.com) and [CDNJS](https://cdnjs.com).
+Third-party plugins are loaded from [CDNJS](https://cdnjs.com) CDN by default. We also provide other optional CDNs, including the famous [UNPKG](https://unpkg.com) and [jsDelivr](https://www.jsdelivr.com)..
 
 For example, if you want to use `unpkg` instead of `jsdelivr` as the default CDN provider, you need to edit the following settings in NexT config file:
 
@@ -133,7 +133,7 @@ Also, we welcome Issue or PR to our [official-plugins][official-plugins-url].
 
 > GitHub allows us to host the Git repository and run the test suite.
 
-<a href="https://www.netlify.com"><img height="40" src="https://www.netlify.com/img/press/logos/full-logo-light.svg"></a>
+<a href="https://www.netlify.com"><img height="40" src="https://www.netlify.com/v3/img/components/full-logo-light.svg"></a>
 
 > Netlify allows us to distribute the documentation.
 
@@ -141,9 +141,9 @@ Also, we welcome Issue or PR to our [official-plugins][official-plugins-url].
 
 > Crowdin allows us to translate conveniently the documentation.
 
-<a href="https://www.jsdelivr.com"><img height="40" src="https://raw.githubusercontent.com/jsdelivr/jsdelivr-media/master/default/svg/jsdelivr-logo-horizontal.svg"></a>
+<a href="https://cdnjs.com"><img height="40" src="https://raw.githubusercontent.com/cdnjs/brand/master/logo/standard/dark-512.png"></a>
 
-> Thanks jsDelivr for providing public CDN service.
+> Thanks CDNJS for providing public CDN service.
 
 [docs-installation-url]: https://theme-next.js.org/docs/getting-started/installation.html
 [docs-configuration-url]: https://theme-next.js.org/docs/getting-started/configuration.html

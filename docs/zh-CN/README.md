@@ -74,7 +74,7 @@ pjax: true
 
 ### 设置 CDN
 
-第三方插件默认通过 [jsDelivr](https://www.jsdelivr.com) CDN 服务加载。我们也提供了其它的 CDN 服务供选择，包括著名的 [UNPKG](https://unpkg.com) 和 [CDNJS](https://cdnjs.com)。
+第三方插件默认通过 [CDNJS](https://cdnjs.com) CDN 服务加载。我们也提供了其它的 CDN 服务供选择，包括著名的 [UNPKG](https://unpkg.com) 和 [jsDelivr](https://www.jsdelivr.com).。
 
 例如，你想要使用 `unpkg` 代替 `jsdelivr` 作为默认的 CDN 提供商，你需要在 NexT 配置文件中进行如下设置：
 
@@ -133,7 +133,7 @@ $ git pull
 
 > GitHub 容许我们托管 Git 仓库及运行测试。
 
-<a href="https://www.netlify.com"><img height="40" src="https://www.netlify.com/img/press/logos/full-logo-light.svg"></a>
+<a href="https://www.netlify.com"><img height="40" src="https://www.netlify.com/v3/img/components/full-logo-light.svg"></a>
 
 > Netlify 容许我们发布文档。
 
@@ -141,9 +141,9 @@ $ git pull
 
 > Crowdin 容许我们方便地翻译文档。
 
-<a href="https://www.jsdelivr.com"><img height="40" src="https://raw.githubusercontent.com/jsdelivr/jsdelivr-media/master/default/svg/jsdelivr-logo-horizontal.svg"></a>
+<a href="https://cdnjs.com"><img height="40" src="https://raw.githubusercontent.com/cdnjs/brand/master/logo/standard/dark-512.png"></a>
 
-> jsDelivr 提供了 CDN 服务。
+> 感谢 CDNJS 提供的 CDN 服务。
 
 [docs-installation-url]: https://theme-next.js.org/docs/getting-started/installation.html
 [docs-configuration-url]: https://theme-next.js.org/docs/getting-started/configuration.html
