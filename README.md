@@ -141,7 +141,7 @@ Also, we welcome Issue or PR to our [official-plugins][official-plugins-url].
 
 > Crowdin allows us to translate conveniently the documentation.
 
-<a href="https://cdnjs.com"><img height="40" src="https://raw.githubusercontent.com/cdnjs/brand/master/logo/standard/dark-512.png"></a>
+<a href="https://cdnjs.com"><img height="40" src="https://raw.githubusercontent.com/cdnjs/brand/master/logo/source/dark-brackets.svg"></a>
 
 > Thanks CDNJS for providing public CDN service.
 

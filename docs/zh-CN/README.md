@@ -141,7 +141,7 @@ $ git pull
 
 > Crowdin 容许我们方便地翻译文档。
 
-<a href="https://cdnjs.com"><img height="40" src="https://raw.githubusercontent.com/cdnjs/brand/master/logo/standard/dark-512.png"></a>
+<a href="https://cdnjs.com"><img height="40" src="https://raw.githubusercontent.com/cdnjs/brand/master/logo/source/dark-brackets.svg"></a>
 
 > 感谢 CDNJS 提供的 CDN 服务。
 
